@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+ body{
+        }
+        .a{
+            display: flex;
+            justify-content: space-evenly;
+			gap: 20px;
+        }
+        img{
+            width: 60px;
+            height: 60px;
+        }
+.b{
+	display: flex;
+	justify-content: space-evenly;
+    gap: 20px;
+	
+}
+.c{
+	display: flex;
+	justify-content: space-evenly;
+    gap: 20px;
+}
+.d{
+	display: flex;
+	justify-content: space-evenly;
+    gap: 20px;
+}
