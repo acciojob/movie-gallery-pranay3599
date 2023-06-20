@@ -2,11 +2,17 @@
 /* Your CSS Code here. */
  body{
         }
-        .fluid{
+        .container-fluid{
             display: flex;
+			flex-direction: column;
             justify-content: space-evenly;
 			gap: 20px;
         }
+.fluid{
+	 display: flex;
+            justify-content: space-evenly;
+			gap: 20px;
+}
         img{
             width: 60px;
             height: 60px;
