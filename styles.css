@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
  body{
         }
-        .a{
+        .fluid{
             display: flex;
             justify-content: space-evenly;
 			gap: 20px;
