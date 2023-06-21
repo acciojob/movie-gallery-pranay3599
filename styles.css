@@ -2,34 +2,15 @@
 /* Your CSS Code here. */
  body{
         }
-        .container-fluid{
+.container-fluid{
             display: flex;
 			flex-direction: column;
             justify-content: space-evenly;
 			gap: 20px;
         }
-.fluid{
-	 display: flex;
+.row{
+	        display: flex;
             justify-content: space-evenly;
 			gap: 20px;
 }
-        img{
-            width: 60px;
-            height: 60px;
-        }
-.b{
-	display: flex;
-	justify-content: space-evenly;
-    gap: 20px;
-	
-}
-.c{
-	display: flex;
-	justify-content: space-evenly;
-    gap: 20px;
-}
-.d{
-	display: flex;
-	justify-content: space-evenly;
-    gap: 20px;
-}
+  
